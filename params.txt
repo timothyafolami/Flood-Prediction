@@ -1,0 +1,2 @@
+Best trial: {'iterations': 889, 'depth': 9, 'learning_rate': 0.05702500207936526, 'l2_leaf_reg': 3.3316588908709655, 'bagging_temperature': 0.4828180821426077, 
+'border_count': 145, 'random_strength': 0.3739818100935598, 'one_hot_max_size': 2, 'rsm': 0.8439969747365434, 'od_type': 'IncToDec', 'od_wait': 15}
